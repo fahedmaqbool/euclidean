@@ -4,7 +4,7 @@
 \alias{add2}
 \title{Add together two numbers.}
 \usage{
-add2(a, b)
+add2(x, y)
 }
 \arguments{
 \item{x}{A number.}
@@ -19,5 +19,4 @@ Add together two numbers.
 }
 \examples{
 add2(1, 1)
-add2(10, 1)
 }
