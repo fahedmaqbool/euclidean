@@ -1,4 +1,0 @@
-language: r
-cache: packages
-before_install: cd uclidean
-warnings_are_errors: false
