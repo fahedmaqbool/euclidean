@@ -1,2 +1,0 @@
-x <- data.frame("SN" = 1:2, "Age" = c(21,15), "Name" = c("John","Dora"))
-return
